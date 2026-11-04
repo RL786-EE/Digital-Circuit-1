@@ -13,7 +13,7 @@ Uses an AND gate to light up an LED
 
 ## How to test
 
-Switch the appropriate switches on, and the LED should turn on
+Switch the appropriate switches on, and the LED should turn on.
 
 ## External hardware
 
